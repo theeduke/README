@@ -10,7 +10,7 @@
 
 - 🔭 Graduated from  **ALX-software engineering**
 
-- 🌱 I’m passionately becoming a **Fullstack software development**
+- 🌱 I’m passionately becoming a **Fullstack software developer**
 
 - 📫 How to reach me **oscarian528@gmail.com**
 

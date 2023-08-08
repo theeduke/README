@@ -8,9 +8,9 @@
 
 <p align="left"> <a href="https://twitter.com/@ukethee" target="blank"><img src="https://img.shields.io/twitter/follow/@ukethee?logo=twitter&style=for-the-badge" alt="@ukethee" /></a> </p>
 
-- 🔭 I’m currently working on **ALX-software engineering**
+- 🔭 Graduated from  **ALX-software engineering**
 
-- 🌱 I’m currently learning **Fullstack software development**
+- 🌱 I’m passionately becoming a **Fullstack software development**
 
 - 📫 How to reach me **oscarian528@gmail.com**
 

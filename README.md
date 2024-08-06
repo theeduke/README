@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/@ukethee" target="blank"><img src="https://img.shields.io/twitter/follow/@ukethee?logo=twitter&style=for-the-badge" alt="@ukethee" /></a> </p>
 
-- 🌱 I’m passionately becoming a **Fullstack software developer**
+- 🌱 **Fullstack software developer**
 
 - 📫 How to reach me **oscarian528@gmail.com**
 
